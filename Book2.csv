@@ -1,10 +1,10 @@
 ﻿name,imageUrl,area,positionName,id,parentId
-Sanjay Srivastva,shorturl.at/nABCL,Antenna,GM-Antenna,O-6066,,
-Arvind Kumar,shorturl.at/nABCL,Antenna,Sr. DGM,O-6067,O-6066
-Ajay Kumar Sharma,shorturl.at/nABCL,Communication Antenna,Sr. DGM,O-6068,O-6067
-Sanjay Choube,shorturl.at/nABCL,RADAR Antenna,Sr. DGM,O-6069,O-6067
-Hitanshu Maheshwari,shorturl.at/nABCL,Communication Antenna,Sr. DGM,O-6070,O-6068
-B. M. Jha,shorturl.at/nABCL,Communication Antenna,Manager,O-6071,O-6068
+Sanjay Srivastva,manager.jpg,Antenna,GM-Antenna,O-6066,,
+Arvind Kumar,manager.jpg,Antenna,Sr. DGM,O-6067,O-6066
+Ajay Kumar Sharma,manager.jpg,Communication Antenna,Sr. DGM,O-6068,O-6067
+Sanjay Choube,manager.jpg,RADAR Antenna,Sr. DGM,O-6069,O-6067
+Hitanshu Maheshwari,manager.jpg,Communication Antenna,Sr. DGM,O-6070,O-6068
+B. M. Jha,manager.jpg,Communication Antenna,Manager,O-6071,O-6068
 Vinay Kumar,shorturl.at/nABCL,Communication Antenna,Manager,O-6072,O-6068
 Rakesh Kr Nayak,shorturl.at/nABCL,RADAR Antenna,DGM,O-6073,O-6069
 Vinay Kr Sawnani,shorturl.at/nABCL,RADAR Antenna,DGM,O-6074,O-6069
