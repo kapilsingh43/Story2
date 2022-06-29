@@ -1,13 +1,13 @@
 name,imageUrl,area,positionName,id,parentId
-Sanjay Srivastva,sanjay.jpg,Antenna,GM-Antenna,O-6066,,
-Arvind Kumar,manager.jpg,Antenna,Sr. DGM,O-6067,O-6066
-Ajay Kumar Sharma,manager.jpg,Communication Antenna,Sr. DGM,O-6068,O-6067
-Sanjay Choube,manager.jpg,RADAR Antenna,Sr. DGM,O-6069,O-6067
-Hitanshu Maheshwari,manager.jpg,Communication Antenna,Sr. DGM,O-6070,O-6068
-B. M. Jha,manager.jpg,Communication Antenna,Manager,O-6071,O-6068
-Vinay Kumar,manager.jpg,Communication Antenna,Manager,O-6072,O-6068
+Sanjay Srivastva,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Antenna,GM-Antenna,O-6066,,
+Arvind Kumar,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Antenna,Sr. DGM,O-6067,O-6066
+Ajay Kumar Sharma,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Communication Antenna,Sr. DGM,O-6068,O-6067
+Sanjay Choube,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,RADAR Antenna,Sr. DGM,O-6069,O-6067
+Hitanshu Maheshwari,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Communication Antenna,Sr. DGM,O-6070,O-6068
+B. M. Jha,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Communication Antenna,Manager,O-6071,O-6068
+Vinay Kumar,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Communication Antenna,Manager,O-6072,O-6068
 Rakesh Kr Nayak,,RADAR Antenna,DGM,O-6073,O-6069
-Vinay Kr Sawnani,manager.jpg,RADAR Antenna,DGM,O-6074,O-6069
-Vinay Kr Sawnani,manager.jpg,RADAR Antenna,DGM,O-6074,O-6069
-Seema Doongarwal,manager.jpg,RADAR Antenna,DGM,O-6075,O-6069
-Pragati Srivastva,manager.jpg,RADAR Antenna,DGM,O-6076,O-6069
+Vinay Kr Sawnani,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,RADAR Antenna,DGM,O-6074,O-6069
+Vinay Kr Sawnani,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,RADAR Antenna,DGM,O-6074,O-6069
+Seema Doongarwal,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,RADAR Antenna,DGM,O-6075,O-6069
+Pragati Srivastva,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,RADAR Antenna,DGM,O-6076,O-6069
